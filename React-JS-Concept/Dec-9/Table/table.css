@@ -1,0 +1,9 @@
+.tableBorder{
+    border: 1px solid green;
+}
+.header{
+    color: 1px solid red;
+}
+.tableBody{
+    color: red;
+}
